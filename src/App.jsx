@@ -10,6 +10,9 @@ import Root from "./components/Root";
 import Signin from "./components/Signin";
 import Signup from "./components/Signup";
 import Dashboard from "./container/Dashboard";
+import Profile from "./container/Profile";
+import Team from "./container/Team";
+import Tasks from "./container/Tasks";
 
 import "./App.css";
 
@@ -19,6 +22,9 @@ const router = createBrowserRouter(
       <Route path="signin" element={<Signin />} />
       <Route path="signup" element={<Signup />} />
       <Route path="dashboard" element={<Dashboard />} />
+      <Route path="profile" element={<Profile />} />
+      <Route path="team" element={<Team />} />
+      <Route path="tasks" element={<Tasks />} />
     </Route>
   )
 );
