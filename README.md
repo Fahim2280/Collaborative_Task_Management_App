@@ -12,7 +12,7 @@ This is a Collaborative Task Management Application built with React.js. It allo
 
 ## Demo
 
-You can try the app live at [Live Demo Link](([your-live-demo-link-here](https://sparkling-muffin-5cc9e1.netlify.app/signin?fbclid=IwAR12p7127aORzHhbyezfX3PMA5eWU-6n_A4KvgVzkLbrabkYCojuHLGYkwA)).
+You can try the app live at [Live Demo Link]([your-live-demo-link-here](https://sparkling-muffin-5cc9e1.netlify.app/signin?fbclid=IwAR12p7127aORzHhbyezfX3PMA5eWU-6n_A4KvgVzkLbrabkYCojuHLGYkwA).
 
 ## Features
 
